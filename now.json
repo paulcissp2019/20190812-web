@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "alias": "nextjs-template",
-  "name": "nextjs-template",
+  "alias": "20190812-web",
+  "name": "20190812-web",
   "builds": [
     { "src": "next.config.js", "use": "@now/next" }
   ]
